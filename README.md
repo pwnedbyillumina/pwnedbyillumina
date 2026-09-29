@@ -5,7 +5,7 @@
 
 <p align="center">
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢ <br>
-﹉﹉﹉﹉﹉୨♡୧﹉﹉﹉﹉﹉ <br>
+﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉ <br>
 ♡ about me: <br>
 Greetings.. the names i use is Isaac mostly and alistare sometimes. <br>
 im fine with nicknames like darling, prince. but if you want to call me something else. please let me know first <br>
