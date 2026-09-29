@@ -24,7 +24,7 @@ and make sure im comfortable with it. ^^ <br>
 
 > do NOT give me suggestive, overly affectionate, or unwanted pet names. I prefer to be called Isaac. please stick to those name instead of using weird/disgusting nicks or using pet nicks without my permission. If I tell you that a name or nickname makes me uncomfortable, stop using it instead of repeatedly asking why or trying to convince me that it is harmless. if you break this one, you will be hidden or ignored by me.
 >
-> Do not randomly friend me without talking to me first. i want to get to know you before we add each other. This applies to my socials too. You can follow me, but I will not follow you back unless I want to or we actually know each other.
+> do not randomly friend me without talking or any interaction. i want to get to know you before we add each other. This applies to my socials too. You can follow me, but I will not follow you back unless I want to or we actually know each other.
 >
 > Do NOT force your religion onto me, pressure me into believing in it, or repeatedly bring it up after I have made it clear that I am not interested. dni if you do.
 >
