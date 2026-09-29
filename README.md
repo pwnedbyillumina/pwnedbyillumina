@@ -6,13 +6,26 @@
 <p align="center">
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢ <br>
 ﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉ <br>
-♡ about me: <br>
-Greetings.. the names i use is Isaac mostly and alistare sometimes. <br>
-im fine with nicknames like darling, prince. but if you want to call me something else. please let me know first <br>
-and make sure im comfortable with it. ^^ <br>
+<p align="center">
+${{\color{#6786a6}\normalsize{\textsf{·̩͙།† ͝ ︶ ͝ ⏝ ͝ ︶ ͝ †། ·̩͙}}}}$ <br>
+${{\color{#6786a6}\normalsize{\textsf{my page…}}}}$ <br>
+${{\color{#6786a6}\normalsize{\textsf{wip wip wip okay…}}}}$
+
+
+
 
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ⋆.
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
+
+
+
+
+
+
+
+
+
+
 
 <p align="center"> 
 ﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍
