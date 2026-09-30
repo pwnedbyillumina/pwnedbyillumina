@@ -11,7 +11,7 @@ ${{\color{#6786a6}\normalsize{\textsf{·̩͙།† ͝  ︶  ͝   ⏝   ͝  ︶  
 ${{\color{#6786a6}\normalsize{\textsf{my page…}}}}$ <br>
 ${{\color{#6786a6}\normalsize{\textsf{wip wip wip okay…}}}}$
 
-[tt](https://www.tiktok.com/@pwnedbyillumina?_r=1&_t=ZS-9AAkOuAMdAS)
+
 
 
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ⋆.
