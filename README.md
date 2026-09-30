@@ -11,7 +11,7 @@ ${{\color{#6786a6}\normalsize{\textsf{·̩͙།† ͝  ︶  ͝   ⏝   ͝  ︶  
 ${{\color{#6786a6}\normalsize{\textsf{my page…}}}}$ <br>
 ${{\color{#6786a6}\normalsize{\textsf{wip wip wip okay…}}}}$
 
-
+<sub><sub>text</sub><sub>
 
 
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ⋆.
