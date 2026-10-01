@@ -24,9 +24,9 @@ ${{\color{#6786a6}\normalsize{\textsf{wip wip wip okay…}}}}$
 
 <div align="center">
 <details>
-<summary>${{\color{#6786a6}\normalsize{\textsf{text}}}}$</summary>
+<summary>${{\color{#6786a6}\normalsize{\textsf{about me !!}}}}$</summary>
 
-${{\color{#6786a6}\normalsize{\textsf{hi, wip text}}}}$
+${{\color{#6786a6}\normalsize{\textsf{isfp omnivert.. adding more soon}}}}$
 
 </details>
 <div align="center">
