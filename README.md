@@ -24,7 +24,7 @@ ${{\color{#6786a6}\normalsize{\textsf{wip wip wip okay…}}}}$
 <details>
 <summary>${{\color{#6786a6}\normalsize{\textsf{text}}}}$</summary>
 
-${{\color{#cf1515}\normalsize{\textsf{hi, wip text}}}}$
+${{\color{#6786a6}\normalsize{\textsf{hi, wip text}}}}$
 
 </details>
 
