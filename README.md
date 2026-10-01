@@ -20,8 +20,13 @@ ${{\color{#6786a6}\normalsize{\textsf{wip wip wip okay…}}}}$
 
 
 
+<div align="center">
+<details>
+<summary>${{\color{#6786a6}\normalsize{\textsf{text}}}}$</summary>
 
+${{\color{#cf1515}\normalsize{\textsf{hi, wip text}}}}$
 
+</details>
 
 
 
@@ -33,8 +38,8 @@ ${{\color{#6786a6}\normalsize{\textsf{wip wip wip okay…}}}}$
 
 
 <div align="center">
-  <details>
-    <summary>[ list of boundaries ] please read byi</summary>
+<details>
+<summary>${{\color{#6786a6}\normalsize{\textsf{list of boundaries}}}}$</summary>
 
 > do NOT give me suggestive, overly affectionate, or unwanted pet names. I prefer to be called Isaac. please stick to those name instead of using weird/disgusting nicks or using pet nicks without my permission. If I tell you that a name or nickname makes me uncomfortable, stop using it instead of repeatedly asking why or trying to convince me that it is harmless. if you break this one, you will be hidden or ignored by me.
 >
@@ -55,4 +60,6 @@ ${{\color{#6786a6}\normalsize{\textsf{wip wip wip okay…}}}}$
 <p align="center">             
 ﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍ <br>
 ⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣ </p>
+
+
 
