@@ -14,6 +14,8 @@ ${{\color{#6786a6}\normalsize{\textsf{wip wip wip okay…}}}}$
 
 <sub><sub>text</sub><sub>
 
+<img width="734" height="114" alt="image" src="https://github.com/user-attachments/assets/8b8f43d3-c3c4-4162-82f4-456d739e4abb" />
+
 
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ⋆.
 　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
