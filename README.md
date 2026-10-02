@@ -12,6 +12,14 @@ ${{\color{#6786a6}\normalsize{\textsf{·̩͙།† ͝  ︶  ͝   ⏝   ͝  ︶  
 ${{\color{#6786a6}\normalsize{\textsf{my page…}}}}$ <br>
 ${{\color{#6786a6}\normalsize{\textsf{wip wip wip okay…}}}}$
 
+<div align="center">
+<details>
+<summary>${{\color{#6786a6}\normalsize{\textsf{about me !!}}}}$</summary>
+
+${{\color{#6786a6}\normalsize{\textsf{omnivert isfp type 9 33334… adding more soon}}}}$
+
+</details>
+
 <sub><sub>text</sub><sub>
 
 <p align="center">
@@ -23,13 +31,7 @@ ${{\color{#6786a6}\normalsize{\textsf{wip wip wip okay…}}}}$
 
 
 
-<div align="center">
-<details>
-<summary>${{\color{#6786a6}\normalsize{\textsf{about me !!}}}}$</summary>
 
-${{\color{#6786a6}\normalsize{\textsf{omnivert isfp type 9 33334… adding more soon}}}}$
-
-</details>
 <div align="center">
 <details>
 <summary>${{\color{#6786a6}\normalsize{\textsf{text}}}}$</summary>
