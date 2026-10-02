@@ -16,7 +16,7 @@ ${{\color{#6786a6}\normalsize{\textsf{wip wip wip okay…}}}}$
 <details>
 <summary>${{\color{#6786a6}\normalsize{\textsf{about me !!}}}}$</summary>
 
-${{\color{#6786a6}\normalsize{\textsf{omnivert isfp type 9 33334… adding more soon}}}}$
+${{\color{#6786a6}\normalsize{\textsf{omnivert sfp sp9 9w1 sp/so 947 rLuan… adding more soon}}}}$
 
 </details>
 
