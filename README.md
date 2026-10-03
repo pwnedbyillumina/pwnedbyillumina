@@ -20,7 +20,7 @@ ${{\color{#6786a6}\normalsize{\textsf{omnivert sfp sp9 9w1 sp/so 947 rLuan… ad
 
 </details>
 
-<sub><sub>text</sub><sub>
+<sub><sub>${{\color{#6786a6}\normalsize{\textsf{taken by my tuf partners.. isaiah, Brandon and ivan/blade}}}}$</sub><sub>
 
 <div align="center"> <details>
 <summary>${{\color{#6786a6}\normalsize{\textsf{pony town info}}}}$</summary>
