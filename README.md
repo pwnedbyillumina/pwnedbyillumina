@@ -83,7 +83,7 @@ ${{\color{#6786a6}\normalsize{\textsf{hi, wip text}}}}$
 >
 > Do NOT force your religion onto me, pressure me into believing in it, or repeatedly bring it up after I have made it clear that I am not interested. dni if you do.
 >
-> Do not use any slurs when youre around me, even as a joke or casually. i dislike seeing slurs including the hard r. seeing them makes me uncomfortable. I also do not believe in reclaiming slurs, so please do not use that as an excuse to say them around me. If I ask you to stop using certain language around me, PLEASE respect that instead of arguing or smth else.. like if so, you will be ignored or BLOCKED. it just makes me so uncomfortable..
+> do not use any slurs around me. INLCUDING slurs that are towards me. and yes i mean every slur, even if you can reclaim. i advise you to not say any slurs around me, it makes me uncomfortable. HIGHLY targeted to brandon.
 >
 > Please respect my boundaries instead of trying to argue with me about them. If I tell you something makes me uncomfortable, stop doing it rather than making me explain myself repeatedly.
 >
