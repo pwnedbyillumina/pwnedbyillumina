@@ -27,10 +27,17 @@ ${{\color{#6786a6}\normalsize{\textsf{omnivert sfp sp9 9w1 sp/so 947 rLuan… ad
 
 ## ${{\color{#6786a6}\normalsize{\textsf{skins}}}}$
 
+${{\color{#6786a6}\normalsize{\textsf{i mostly use mm12/af12 skins or any in character of what fandom im in.}}}}$ <br>
+${{\color{#6786a6}\normalsize{\textsf{and i do not have any ocs.}}}}$ <br>
+
 ## ${{\color{#6786a6}\normalsize{\textsf{area}}}}$
+
 ${{\color{#6786a6}\normalsize{\textsf{safe 1 - usually outside bakery below the chs fandom area.}}}}$ <br>
 ${{\color{#6786a6}\normalsize{\textsf{sometimes i stay at the left top side of the spawn.}}}}$ <br>
 ${{\color{#6786a6}\normalsize{\textsf{i can also be found on edges of maps rarely.}}}}$ <br>
+
+${{\color{#6786a6}\normalsize{\textsf{safe 2 - I don’t really go to this server unless im with friends.}}}}$ <br>
+${{\color{#6786a6}\normalsize{\textsf{usually near under bakery, or near the boats.}}}}$ <br>
 
 </details>
 
