@@ -10,7 +10,7 @@
 <p align="center">
 ${{\color{#6786a6}\normalsize{\textsf{·̩͙།† ͝  ︶  ͝   ⏝   ͝  ︶  ͝ †། ·̩͙}}}}$ <br>
 ${{\color{#6786a6}\normalsize{\textsf{my page…}}}}$ <br>
-${{\color{#6786a6}\normalsize{\textsf{wip wip wip okay…}}}}$
+${{\color{#6786a6}\normalsize{\textsf{18+ iwc or dni.}}}}$
 
 <div align="center">
 <details>
