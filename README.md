@@ -22,6 +22,14 @@ ${{\color{#6786a6}\normalsize{\textsf{omnivert sfp sp9 9w1 sp/so 947 rLuan… ad
 
 <sub><sub>text</sub><sub>
 
+<div align="center"> <details>
+<summary>${{\color{#6786a6}\normalsize{\textsf{pony town info}}}}$</summary>
+
+${{\color{#6786a6}\normalsize{\textsf{hi, wip text}}}}$
+${{\color{#6786a6}\normalsize{\textsf{hi, wip text}}}}$
+
+</details>
+
 <p align="center">
 <img width="734" height="114" alt="image" src="https://github.com/user-attachments/assets/8b8f43d3-c3c4-4162-82f4-456d739e4abb" />
 
@@ -32,14 +40,14 @@ ${{\color{#6786a6}\normalsize{\textsf{omnivert sfp sp9 9w1 sp/so 947 rLuan… ad
 
 
 
-<div align="center">
-<details>
+<div align="center"> <details>
 <summary>${{\color{#6786a6}\normalsize{\textsf{text}}}}$</summary>
 
 ${{\color{#6786a6}\normalsize{\textsf{hi, wip text}}}}$
 
-</details><div align="center">
-<details>
+</details>
+
+<div align="center"><details>
 <summary>${{\color{#6786a6}\normalsize{\textsf{text}}}}$</summary>
 
 ${{\color{#6786a6}\normalsize{\textsf{hi, wip text}}}}$
