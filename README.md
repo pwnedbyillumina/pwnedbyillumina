@@ -59,9 +59,9 @@ ${{\color{#6786a6}\normalsize{\textsf{hi, wip text}}}}$
 </details>
 
 <div align="center"><details>
-<summary>${{\color{#6786a6}\normalsize{\textsf{text}}}}$</summary>
+<summary>${{\color{#6786a6}\normalsize{\textsf{dni list}}}}$</summary>
 
-${{\color{#6786a6}\normalsize{\textsf{hi, wip text}}}}$
+${{\color{#6786a6}\normalsize{\textsf{t.r.a.s.h. boundary breakers, perverts, wait for more}}}}$
 
 </details>
 
