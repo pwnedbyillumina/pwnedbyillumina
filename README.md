@@ -25,8 +25,11 @@ ${{\color{#6786a6}\normalsize{\textsf{omnivert sfp sp9 9w1 sp/so 947 rLuan… ad
 <div align="center"> <details>
 <summary>${{\color{#6786a6}\normalsize{\textsf{pony town info}}}}$</summary>
 
-${{\color{#6786a6}\normalsize{\textsf{hi, wip text}}}}$
-${{\color{#6786a6}\normalsize{\textsf{hi, wip text}}}}$
+## ${{\color{#6786a6}\normalsize{\textsf{skins}}}}$
+
+## ${{\color{#6786a6}\normalsize{\textsf{area}}}}$
+${{\color{#6786a6}\normalsize{\textsf{texttexttext}}}}$ <br>
+${{\color{#6786a6}\normalsize{\textsf{hi, wip text}}}}$ <br>
 
 </details>
 
