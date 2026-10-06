@@ -17,7 +17,7 @@ ${{\color{#6786a6}\normalsize{\textsf{18+ iwc or dni.}}}}$
 <details>
 <summary>${{\color{#6786a6}\normalsize{\textsf{about me !!}}}}$</summary>
 
-${{\color{#6786a6}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w1 · sp/so · 947 · rLuan · 44445 · 334554soon}}}}$
+${{\color{#6786a6}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w1 · sp/so · 947 · rLuan · 44445 · 334554}}}}$
 
 </details>
 
