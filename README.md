@@ -43,7 +43,7 @@ ${{\color{#6786a6}\normalsize{\textsf{usually near under bakery, or near the boa
 </details>
 
 <p align="center">
-<img width="734" height="114" alt="image" src="https://github.com/user-attachments/assets/8b8f43d3-c3c4-4162-82f4-456d739e4abb" />
+<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/b2e80617-c445-4a1a-ac65-e9a286de64a4" />
 
 
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ⋆.
@@ -107,5 +107,6 @@ ${{\color{#6786a6}\normalsize{\textsf{dni if you support maga}}}}$ <br>
 <p align="center">             
 ﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍ <br>
 ⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣ </p>
+
 
 
