@@ -21,24 +21,24 @@ ${{\color{#7d1b14}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w1 · sp
 
 </details>
 
-<sub><sub>${{\color{#6786a6}\normalsize{\textsf{taken by my tuf partners.. isaiah, Brandon and ivan/blade}}}}$</sub><sub>
+<sub><sub>${{\color{#7d1b14}\normalsize{\textsf{taken by my tuf partners.. isaiah, Brandon and ivan/blade}}}}$</sub><sub>
 
 <div align="center"> <details>
-<summary>${{\color{#6786a6}\normalsize{\textsf{pony town info}}}}$</summary>
+<summary>${{\color{#7d1b14}\normalsize{\textsf{pony town info}}}}$</summary>
 
-## ${{\color{#6786a6}\normalsize{\textsf{skins}}}}$
+## ${{\color{#7d1b14}\normalsize{\textsf{skins}}}}$
 
-${{\color{#6786a6}\normalsize{\textsf{i mostly use mm12/af12 skins or any in character of what fandom im in.}}}}$ <br>
-${{\color{#6786a6}\normalsize{\textsf{and i do not have any ocs.}}}}$ <br>
+${{\color{#7d1b14}\normalsize{\textsf{i mostly use mm12/af12 skins or any in character of what fandom im in.}}}}$ <br>
+${{\color{#7d1b14}\normalsize{\textsf{and i do not have any ocs.}}}}$ <br>
 
-## ${{\color{#6786a6}\normalsize{\textsf{area}}}}$
+## ${{\color{#7d1b14}\normalsize{\textsf{area}}}}$
 
-${{\color{#6786a6}\normalsize{\textsf{safe 1 - usually outside bakery below the chs fandom area.}}}}$ <br>
-${{\color{#6786a6}\normalsize{\textsf{sometimes i stay at the left top side of the spawn.}}}}$ <br>
+${{\color{#7d1b14}\normalsize{\textsf{safe 1 - usually outside bakery below the chs fandom area.}}}}$ <br>
+${{\color{#7d1b14}\normalsize{\textsf{sometimes i stay at the left top side of the spawn.}}}}$ <br>
 ${{\color{#6786a6}\normalsize{\textsf{i can also be found on edges of maps rarely.}}}}$ <br>
 
-${{\color{#6786a6}\normalsize{\textsf{safe 2 - I don’t really go to this server unless im with friends.}}}}$ <br>
-${{\color{#6786a6}\normalsize{\textsf{usually near under bakery, or near the boats.}}}}$ <br>
+${{\color{#7d1b14}\normalsize{\textsf{safe 2 - I don’t really go to this server unless im with friends.}}}}$ <br>
+${{\color{#7d1b14}\normalsize{\textsf{usually near under bakery, or near the boats.}}}}$ <br>
 
 </details>
 
@@ -54,20 +54,20 @@ ${{\color{#6786a6}\normalsize{\textsf{usually near under bakery, or near the boa
 
 
 <div align="center"> <details>
-<summary>${{\color{#6786a6}\normalsize{\textsf{text}}}}$</summary>
+<summary>${{\color{#7d1b14}\normalsize{\textsf{text}}}}$</summary>
 
-${{\color{#6786a6}\normalsize{\textsf{hi, wip text}}}}$
+${{\color{#7d1b14}\normalsize{\textsf{hi, wip text}}}}$
 
 </details>
 
 <div align="center"><details>
-<summary>${{\color{#6786a6}\normalsize{\textsf{dni list}}}}$</summary>
+<summary>${{\color{#7d1b14}\normalsize{\textsf{dni list}}}}$</summary>
 
 ### ${{\color{#6786a6}\normalsize{\textsf{dni if you’re…}}}}$
-${{\color{#6786a6}\normalsize{\textsf{dni if you are t.r.a.s.h. (transphobic, racist, ableist, sexist, homophobic.}}}}$ <br>
-${{\color{#6786a6}\normalsize{\textsf{dni if you support incest shipping.}}}}$ <br>
-${{\color{#6786a6}\normalsize{\textsf{dni if you support boundary breakers or you are one}}}}$ <br>
-${{\color{#6786a6}\normalsize{\textsf{dni if you support maga}}}}$ <br>
+${{\color{#7d1b14}\normalsize{\textsf{dni if you are t.r.a.s.h. (transphobic, racist, ableist, sexist, homophobic.}}}}$ <br>
+${{\color{#7d1b14}\normalsize{\textsf{dni if you support incest shipping.}}}}$ <br>
+${{\color{#7d1b14}\normalsize{\textsf{dni if you support boundary breakers or you are one}}}}$ <br>
+${{\color{#7d1b14}\normalsize{\textsf{dni if you support maga}}}}$ <br>
 
 </details>
 
