@@ -81,7 +81,7 @@ ${{\color{#7d1b14}\normalsize{\textsf{dni if you support maga}}}}$ <br>
 
 <div align="center">
 <details>
-<summary>${{\color{#6786a6}\normalsize{\textsf{list of boundaries}}}}$</summary>
+<summary>${{\color{#7d1b14}\normalsize{\textsf{list of boundaries}}}}$</summary>
 
 > do NOT give me suggestive, overly affectionate, or unwanted pet names. I prefer to be called Isaac.
 > please stick to those name instead of using weird/disgusting nicks or using pet nicks without my permission.
