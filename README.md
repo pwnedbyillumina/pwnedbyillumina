@@ -63,7 +63,8 @@ ${{\color{#7d1b14}\normalsize{\textsf{hi, wip text}}}}$
 <div align="center"><details>
 <summary>${{\color{#7d1b14}\normalsize{\textsf{dni list}}}}$</summary>
 
-### ${{\color{#6786a6}\normalsize{\textsf{dni if you’re…}}}}$
+### ${{\color{#7d1b14}\normalsize{\textsf{dni if you’re…}}}}$
+
 ${{\color{#7d1b14}\normalsize{\textsf{dni if you are t.r.a.s.h. (transphobic, racist, ableist, sexist, homophobic.}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{dni if you support incest shipping.}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{dni if you support boundary breakers or you are one}}}}$ <br>
