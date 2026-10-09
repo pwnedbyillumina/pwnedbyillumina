@@ -20,7 +20,7 @@ ${{\color{#7d1b14}\normalsize{\textsf{18+ iwc or dni.}}}}$
 ${{\color{#7d1b14}\normalsize{\textsf{low temper / anger issues}}}}$
 ${{\color{#7d1b14}\normalsize{\textsf{mood swings}}}}$
 ${{\color{#7d1b14}\normalsize{\textsf{attactment issues}}}}$
-${{\color{#7d1b14}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w1 · sp/so · 947 · rLuan · 44445 · 334554}}}}$
+${{\color{#7d1b14}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$
 
 </details>
 
