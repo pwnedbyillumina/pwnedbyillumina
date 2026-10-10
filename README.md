@@ -58,6 +58,8 @@ ${{\color{#7d1b14}\normalsize{\textsf{usually near under bakery, or near the boa
 ˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ⋆.
 　　　.   　　˚　　 　　　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
 
+
+
 <hr>
 
 <p align="center">
@@ -115,25 +117,6 @@ ${{\color{#7d1b14}\normalsize{\textsf{dni if you support maga}}}}$ <br>
 
   </details>
 </div>
-<p align="center">             
-﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍ <br>
-⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣ 
-</p>
 
-<table>
-<tr>
-<td>
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/fdedb736-5f2a-4f21-ac23-1c703e7f3ef7" />
-</td>
-<td>
-           Right here in my arms
-           <br>
-           HIM
-</td>
-</tr>
-</table>
-
-
-
-
-
+<p align="center">﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍</p> <br>
+<p align="center">⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣</p>
