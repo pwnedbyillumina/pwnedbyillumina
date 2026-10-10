@@ -48,7 +48,7 @@ text
 
 ${{\color{#7d1b14}\normalsize{\textsf{safe 1 - usually outside bakery below the chs fandom area.}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{sometimes i stay at the left top side of the spawn.}}}}$ <br>
-${{\color{#6786a6}\normalsize{\textsf{i can also be found on edges of maps rarely.}}}}$ <br>
+${{\color{#7d1b14}\normalsize{\textsf{i can also be found on edges of maps rarely.}}}}$ <br>
 
 ${{\color{#7d1b14}\normalsize{\textsf{safe 2 - I don’t really go to this server unless im with friends.}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{usually near under bakery, or near the boats.}}}}$ <br>
