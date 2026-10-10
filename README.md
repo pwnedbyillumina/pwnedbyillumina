@@ -30,7 +30,7 @@ ${{\color{#7d1b14}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 <div align="center">
 <br>
 
-${{\color{#7d1b14}\normalsize{\textsf{asian <sub>(arabian)</sub>}}}}$
+${{\color{#7d1b14}\normalsize{\textsf{asian <sub>(arabian)}}}}$</sub>
 
 </div>
 
