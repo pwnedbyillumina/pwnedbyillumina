@@ -11,9 +11,20 @@
 <p align="center">
 ${{\color{#7d1b14}\normalsize{\textsf{·̩͙།† ͝  ︶  ͝   ⏝   ͝  ︶  ͝ †། ·̩͙}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{my page…}}}}$ <br>
-${{\color{#7d1b14}\normalsize{\textsf{18+ iwc or dni.}}}}$
+${{\color{#7d1b14}\normalsize{\textsf{18+ iwc or dni.}}}}$ <br>
+  
+<div align="center">
+<details>
+<summary>${{\color{#7d1b14}\normalsize{\textsf{about me !!}}}}$</summary>
 
+${{\color{#7d1b14}\normalsize{\textsf{short temper / anger issues}}}}$ <br> 
+${{\color{#7d1b14}\normalsize{\textsf{mood swings}}}}$ <br> 
+${{\color{#7d1b14}\normalsize{\textsf{attactment issues}}}}$ <br>
+${{\color{#7d1b14}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$
 
+</details>
+
+<br clear="left" />
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/5144620b-1000-4c85-8b13-7d274eb97775" align="left" /> 
 
 <div align="center">
@@ -26,26 +37,12 @@ text
 
 
 
-<div align="center">
-<details>
-<summary>${{\color{#7d1b14}\normalsize{\textsf{about me !!}}}}$</summary>
 
-${{\color{#7d1b14}\normalsize{\textsf{short temper / anger issues}}}}$ <br> 
-${{\color{#7d1b14}\normalsize{\textsf{mood swings}}}}$ <br> 
-${{\color{#7d1b14}\normalsize{\textsf{attactment issues}}}}$ <br>
-${{\color{#7d1b14}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$
-
-</details>
 
 <sub><sub>${{\color{#7d1b14}\normalsize{\textsf{taken by my tuf partners.. isaiah, Brandon and ivan/blade}}}}$</sub><sub>
 
 <div align="center"> <details>
 <summary>${{\color{#7d1b14}\normalsize{\textsf{pony town info}}}}$</summary>
-
-## ${{\color{#7d1b14}\normalsize{\textsf{skins}}}}$
-
-${{\color{#7d1b14}\normalsize{\textsf{i mostly use mm12/af12 skins or any in character of what fandom im in.}}}}$ <br>
-${{\color{#7d1b14}\normalsize{\textsf{and i do not have any ocs.}}}}$ <br>
 
 ## ${{\color{#7d1b14}\normalsize{\textsf{area}}}}$
 
