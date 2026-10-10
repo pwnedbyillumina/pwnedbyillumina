@@ -13,6 +13,24 @@ ${{\color{#7d1b14}\normalsize{\textsf{·̩͙།† ͝  ︶  ͝   ⏝   ͝  ︶  
 ${{\color{#7d1b14}\normalsize{\textsf{my page…}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{18+ iwc or dni.}}}}$
 
+
+<table>
+  <tr>
+    <td>
+<img width="1518" height="2000" alt="image" src="https://github.com/user-attachments/assets/5144620b-1000-4c85-8b13-7d274eb97775" />
+
+</td>
+<td>
+${{\color{#7d1b14}\normalsize{\textsf{meow}}}}$
+
+${{\color{#7d1b14}\normalsize{\textsf{eow text text}}}}$
+
+${{\color{#7d1b14}\normalsize{\textsf{text text}}}}$
+    </td>
+  </tr>
+</table>
+
+
 <div align="center">
 <details>
 <summary>${{\color{#7d1b14}\normalsize{\textsf{about me !!}}}}$</summary>
