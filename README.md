@@ -13,27 +13,8 @@ ${{\color{#7d1b14}\normalsize{\textsf{·̩͙།† ͝  ︶  ͝   ⏝   ͝  ︶  
 ${{\color{#7d1b14}\normalsize{\textsf{my page…}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{18+ iwc or dni.}}}}$
 
-<p align="center">
-<table>
-  <tr>
-    <td>
-<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/5144620b-1000-4c85-8b13-7d274eb97775" />
+<p align="left"> <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/5144620b-1000-4c85-8b13-7d274eb97775" /> </p>
 
-</td>
-<td>
-  
-<div align="center"> <details>
-<summary>${{\color{#7d1b14}\normalsize{\textsf{text}}}}$</summary>
-
-${{\color{#7d1b14}\normalsize{\textsf{hi, wip text}}}}$
-</details>
-
-${{\color{#7d1b14}\normalsize{\textsf{eow text text}}}}$
-
-${{\color{#7d1b14}\normalsize{\textsf{text text}}}}$
-    </td>
-  </tr>
-</table>
 
 
 <div align="center">
