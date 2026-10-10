@@ -30,18 +30,8 @@ ${{\color{#7d1b14}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 <div align="center">
 <br>
 
-${{\color{#7d1b14}\normalsize{\textsf{asian <sub>(arabian)}}}}$
-
-</div>
-
-
-<br clear="left" />
-
-
-
-
-
-<sub><sub>${{\color{#7d1b14}\normalsize{\textsf{taken by my tuf partners.. isaiah, Brandon and ivan/blade}}}}$</sub><sub>
+${{\color{#7d1b14}\normalsize{\textsf{asian (arabian)}}}}$ <br>
+${{\color{#7d1b14}\normalsize{\textsf{taken by my 3 partners..}}}}$ <br>
 
 <div align="center"> <details>
 <summary>${{\color{#7d1b14}\normalsize{\textsf{pony town info}}}}$</summary>
@@ -56,6 +46,20 @@ ${{\color{#7d1b14}\normalsize{\textsf{safe 2 - I don’t really go to this serve
 ${{\color{#7d1b14}\normalsize{\textsf{usually near under bakery, or near the boats.}}}}$ <br>
 
 </details>
+
+
+</div>
+
+
+<br clear="left" />
+
+
+
+
+
+
+
+
 
 <p align="center">
 <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/b2e80617-c445-4a1a-ac65-e9a286de64a4" /> <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/8fa90220-2c8a-471f-be5e-1c10750723ba" />
