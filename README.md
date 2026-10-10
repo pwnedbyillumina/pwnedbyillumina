@@ -21,7 +21,12 @@ ${{\color{#7d1b14}\normalsize{\textsf{18+ iwc or dni.}}}}$
 
 </td>
 <td>
-${{\color{#7d1b14}\normalsize{\textsf{meow}}}}$
+  
+<div align="center"> <details>
+<summary>${{\color{#7d1b14}\normalsize{\textsf{text}}}}$</summary>
+
+${{\color{#7d1b14}\normalsize{\textsf{hi, wip text}}}}$
+</details>
 
 ${{\color{#7d1b14}\normalsize{\textsf{eow text text}}}}$
 
@@ -108,11 +113,6 @@ ${{\color{#7d1b14}\normalsize{\textsf{dni if you support maga}}}}$ <br>
 > do NOT give me suggestive, overly affectionate, or unwanted pet names. I prefer to be called Isaac.
 > please stick to those name instead of using weird/disgusting nicks or using pet nicks without my permission.
 > If I tell you that a name or nickname makes me uncomfortable… stop using it instead of repeatedly asking why or trying to convince me that it is harmless. 
->
-> do not randomly friend me without talking or any interaction.
-> i want to get to know you before we add each other.
-> This applies to my socials too. You can follow me, but I will not follow you back.
-> unless i want to or we actually know each other.
 >
 > do NOT force your religion onto me,
 > pressure me into believing in it or repeatedly bring it up after i have made it clear that I am not interested. breaking
