@@ -8,12 +8,17 @@
 <p align="center">
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢ <br>
 ﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉ <br>
-<p align="center">
+
 ${{\color{#7d1b14}\normalsize{\textsf{·̩͙།† ͝  ︶  ͝   ⏝   ͝  ︶  ͝ †། ·̩͙}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{my page…}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{18+ iwc or dni.}}}}$
 
-<p align="left"> <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/5144620b-1000-4c85-8b13-7d274eb97775" /> </p>
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/5144620b-1000-4c85-8b13-7d274eb97775" align="left" /> <p> text </p>
+
+
+
+
+<br clear="left" />
 
 
 
