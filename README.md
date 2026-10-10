@@ -35,9 +35,9 @@ ${{\color{#7d1b14}\normalsize{\textsf{text text}}}}$
 <details>
 <summary>${{\color{#7d1b14}\normalsize{\textsf{about me !!}}}}$</summary>
 
-${{\color{#7d1b14}\normalsize{\textsf{short temper / anger issues}}}}$
-${{\color{#7d1b14}\normalsize{\textsf{mood swings}}}}$
-${{\color{#7d1b14}\normalsize{\textsf{attactment issues}}}}$
+${{\color{#7d1b14}\normalsize{\textsf{short temper / anger issues}}}}$ <br> 
+${{\color{#7d1b14}\normalsize{\textsf{mood swings}}}}$ <br> 
+${{\color{#7d1b14}\normalsize{\textsf{attactment issues}}}}$ <br>
 ${{\color{#7d1b14}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp/so · 927 · rLuan · 44445 · 334554}}}}$
 
 </details>
