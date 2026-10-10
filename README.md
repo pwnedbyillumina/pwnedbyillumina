@@ -52,22 +52,17 @@ ${{\color{#7d1b14}\normalsize{\textsf{usually near under bakery, or near the boa
 
 
 <br clear="left" />
+. <br>
+.
 
-
-
-
-
-
+˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ⋆.
+　　　.   　　˚　　 　　　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
 
 
 
 <p align="center">
 <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/b2e80617-c445-4a1a-ac65-e9a286de64a4" /> <img width="100" height="50" alt="image" src="https://github.com/user-attachments/assets/8fa90220-2c8a-471f-be5e-1c10750723ba" />
 
-
-
-˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ⋆.
-　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　　　.　　. 　 ˚　.　　　　 　　 　　　　 ✦
 
 
 
