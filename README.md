@@ -28,8 +28,10 @@ ${{\color{#7d1b14}\normalsize{\textsf{isfp (fi-se-ni-te) · eii · sp9 9w8 · sp
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/5144620b-1000-4c85-8b13-7d274eb97775" align="left" /> 
 
 <div align="center">
-<br> 
-text 
+<br>
+
+${{\color{#7d1b14}\normalsize{\textsf{asian <sub>(arabian)</sub>}}}}$
+
 </div>
 
 
